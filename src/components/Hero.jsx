@@ -10,7 +10,6 @@ const PDF_URL = "/Himay-Patel-Resume.pdf"
 const Hero = () => {
 
     const downloadFile = (url) => {
-        alert("Download Resume.");
         const fileName = url.split("/").pop();
         const aTag = document.createElement("a");
         aTag.href=url;
