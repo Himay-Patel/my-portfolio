@@ -5,7 +5,7 @@ export const GitHubId = "https://github.com/Himay-Patel"
 
 export const LinkedInId = "https://www.linkedin.com/in/himay-patel-512212312/"
 
-export const HERO_CONTENT = `I am an enthusiastic aspiring developer with a passion for creating robust and scalable backend. Over the past year, I have been honing my skills in back-end technology like Node.js & Express, as well as gaining experience with basics of front-end technologies such as ReactJS, NextJS & Jetpack Compose, with databases like MongoDB & MySQL`;
+export const HERO_CONTENT = `I am an enthusiastic aspiring developer with a passion for creating robust and scalable backend. Over the past year, I have been honing my skills in back-end technology like Node.js & Express with databases like MongoDB & MySQL, as well as gaining experience with basics of front-end technologies such as ReactJS, NextJS & Jetpack Compose.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile developer with a passion for creating efficient backend.I have worked with a variety of technologies, including Node.js, Express, MongoDB database, MySQL database and also have basic knowledge of front-end technologies like Jetpack Compose, React, Next.js.`;
 
