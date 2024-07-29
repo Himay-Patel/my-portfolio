@@ -32,9 +32,9 @@ const Hero = () => {
                         </motion.div>
                         <div>
                             <TypeAnimation sequence={[
-                                "Android Developer",
+                                "Backend Developer",
                                 1000,
-                                "MERN Developer",
+                                "Backend Developer",
                                 1000,
                             ]}
                                 wrapper='span'
